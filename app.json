@@ -1,0 +1,7 @@
+{
+''name'': ''Node.js Thing'',
+''description'': node.js whatever
+''repository'': ''https://github.com/yeetusfetus46/bign'',
+''logo'': ''https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dictionary.com%2Fe%2Fs%2Fgreen-words%2F&psig=AOvVaw1tBsfdgmDso9RUXKJI_g2w&ust=1592264820300000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCj4e2-guoCFQAAAAAdAAAAABAD'',
+''keywords'': [''node'', ''express'', ''static'']
+}
